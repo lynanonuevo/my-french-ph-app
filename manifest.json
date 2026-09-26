@@ -1,1 +1,9 @@
-{"name":"French for Belle","short_name":"French","start_url":"./","display":"standalone","background_color":"#fff7f4","theme_color":"#fff7f4","description":"French practice with Filipino-friendly pronunciation"}
+{
+  "name": "French Pocket",
+  "short_name": "French Pocket",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8f5",
+  "theme_color": "#fff8f5",
+  "description": "French learning for Filipino speakers"
+}
